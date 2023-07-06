@@ -1,2 +1,2 @@
 import Pro.so
-pro.so Xiyad().Riyad()
+pro.so.Xiyad().Riyad()
