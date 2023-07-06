@@ -1,2 +1,2 @@
-import pro
-pro.Xiyad().Riyad()
+import Pro
+Pro.Xiyad().Riyad()
